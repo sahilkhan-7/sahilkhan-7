@@ -1,9 +1,12 @@
 <h2 align="left">Hi 👋! My name is Sahil Khan and I'm a Data Scientist, from India</h2>
 
-###
+<hr>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkhan-70&theme=dark&hide_border=false" alt="sahilkhan-70" />
+</p>
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=sahilkhan-70&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilkhan-70&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilkhan-70&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -19,7 +22,7 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h2>I Code in :</h2>
+<h2>Languages & Tools i use :</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -69,8 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
 </div>
 
-###
-
+<h2>Connect with me </h2>
 <div align="left">
   <a href="https://www.instagram.com/programmer.70" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -85,12 +87,15 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-###
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkhan-70&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="raviranjan0" />
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sahilkhan-70/sahilkhan-70/output/snake.svg" alt="Snake animation" />
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg)
+
 
 ###
 
