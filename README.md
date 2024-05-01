@@ -7,20 +7,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sahilkhan-70&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilkhan-70&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sahilkhan-70/count.svg?"  />
 </div>
-
-###
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="left">
   <img height="225" src="https://media4.giphy.com/media/donkKNKjxEFkk/100.webp?cid=790b7611hf7lahhzj1yofmqc8e3dq3q4u5n5w2lyq1cg2czi&ep=v1_gifs_search&rid=100.webp&ct=g"  />
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-###
+<h2>I Code in :</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
