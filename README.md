@@ -1,15 +1,18 @@
 <h2 align="left">Hi 👋! My name is Sahil Khan and I'm a Data Scientist, from India</h2>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <hr>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkhan-70&theme=dark&hide_border=false" alt="sahilkhan-70" />
 </p>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilkhan-70&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilkhan-70&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilkhan-70&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="sahilkhan-70" /></p>
+
+<p align="left"><img
+                src="https://github-readme-stats.vercel.app/api?username=sahilkhan-70&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
+                alt="sahilkhan-70" height="170" /></p>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
