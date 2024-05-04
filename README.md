@@ -1,5 +1,5 @@
 <div align="center">
-  <img src = "https://github.com/sahilkhan-70/sahilkhan-70/assets/89759221/ef5632b9-8c7b-4283-9caa-cb759ad71399" height="150" src=""  />
+  <img src = "https://github.com/sahilkhan-70/sahilkhan-70/assets/89759221/ef5632b9-8c7b-4283-9caa-cb759ad71399" height="150" />
 </div>
 
 ###
@@ -123,7 +123,7 @@
 
 ###
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkhan-70&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="raviranjan0" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkhan-70&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="sahilkhan-70" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ###
