@@ -17,7 +17,8 @@
   <a href="https://www.hackerrank.com/profile/khansahil09296" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-  <a href="sahilkhan782466@gmail.com" target="_blank">
+  <a href="mailto:[sahilkhan782466@gmail.com]" target="_blank">
+<!--     <a href="mailto:[email address]?subject=Your Subject&body=Your Body">Send Email</a> -->
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
