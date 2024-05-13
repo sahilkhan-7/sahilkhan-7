@@ -108,7 +108,21 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🧑‍💻 Connect with Me </h2>
+<div align="left">
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/programmer70" target="_blank">
+    <img src="https://github.com/sahilkhan-70/sahilkhan-70/assets/89759221/44fa8de7-51f3-41ee-a6c9-e8c1d83c5250" height="40" alt="linkedin logo"  />
+  </a>
+  <img width="12" />
+  <a href="mailto:sahilkhan782466@gmail.com" target="_blank">
+    <img src="https://github.com/sahilkhan-70/sahilkhan-70/assets/89759221/12c6a5f3-297b-4dae-9615-ec66fc8a5383" height="40" alt="gmail logo"/>
+  </a>
+</div>
+<hr></hr>
+
+###
+<h2 align="left">🔥My Stats :</h2>
 
 ###
 
