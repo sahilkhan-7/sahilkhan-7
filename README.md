@@ -118,6 +118,10 @@
   <a href="mailto:sahilkhan782466@gmail.com" target="_blank">
     <img src="https://github.com/sahilkhan-70/sahilkhan-70/assets/89759221/12c6a5f3-297b-4dae-9615-ec66fc8a5383" height="40" alt="gmail logo"/>
   </a>
+  <img width="12" />
+  <a href="https://www.instagram.com/programmer.70" target="_blank">
+    <img src="https://github.com/sahilkhan-70/sahilkhan-70/assets/89759221/f19d104e-ae35-4162-ba41-0889a1193170" height="40" alt="instagram logo"/>
+  </a>
 </div>
 <hr></hr>
 
