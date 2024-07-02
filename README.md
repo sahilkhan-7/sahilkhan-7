@@ -29,7 +29,9 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sahilkhan-70&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkhan-70&theme=dark&hide_border=false&border_radius=5&order=3"/>
+  <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
 </div>
 
 <h1 align="center">hey there 👋</h1>
