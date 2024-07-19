@@ -1,5 +1,5 @@
 <div align="center">
-  <img src = "https://github.com/sahilkhan-70/sahilkhan-70/assets/89759221/9fa9d79d-6513-47e0-b741-dca5bb3c8e81" height="150" />
+  <img src = "https://github.com/sahilkhan-7/sahilkhan-7/assets/89759221/9fa9d79d-6513-47e0-b741-dca5bb3c8e81" height="150" />
 </div>
 
 ###
@@ -25,12 +25,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sahilkhan-70.sahilkhan-70&left_color=firebrick" height = "30" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sahilkhan-7.sahilkhan-7&left_color=firebrick" height = "30" />
 </div>
 
 <div align="center">
   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkhan-70&theme=dark&hide_border=false&border_radius=5&order=3"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkhan-7&theme=dark&hide_border=false&border_radius=5&order=3"/>
   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
 </div>
 
@@ -114,15 +114,15 @@
 <div align="left">
   <img width="12" />
   <a href="https://www.linkedin.com/in/programmer70" target="_blank">
-    <img src="https://github.com/sahilkhan-70/sahilkhan-70/assets/89759221/44fa8de7-51f3-41ee-a6c9-e8c1d83c5250" height="40" alt="linkedin logo"  />
+    <img src="https://github.com/sahilkhan-7/sahilkhan-7/assets/89759221/44fa8de7-51f3-41ee-a6c9-e8c1d83c5250" height="40" alt="linkedin logo"  />
   </a>
   <img width="12" />
   <a href="mailto:sahilkhan782466@gmail.com" target="_blank">
-    <img src="https://github.com/sahilkhan-70/sahilkhan-70/assets/89759221/12c6a5f3-297b-4dae-9615-ec66fc8a5383" height="40" alt="gmail logo"/>
+    <img src="https://github.com/sahilkhan-7/sahilkhan-7/assets/89759221/12c6a5f3-297b-4dae-9615-ec66fc8a5383" height="40" alt="gmail logo"/>
   </a>
   <img width="12" />
   <a href="https://www.instagram.com/programmer.70" target="_blank">
-    <img src="https://github.com/sahilkhan-70/sahilkhan-70/assets/89759221/f19d104e-ae35-4162-ba41-0889a1193170" height="40" alt="instagram logo"/>
+    <img src="https://github.com/sahilkhan-7/sahilkhan-7/assets/89759221/f19d104e-ae35-4162-ba41-0889a1193170" height="40" alt="instagram logo"/>
   </a>
 </div>
 <div>
@@ -135,10 +135,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=sahilkhan-70&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilkhan-70&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilkhan-70&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkhan-70&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=sahilkhan-7&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilkhan-7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilkhan-7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkhan-7&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
