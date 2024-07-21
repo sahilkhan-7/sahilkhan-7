@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/programmer.70" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/khansahil09296" target="_blank">
+  <a href="https://www.hackerrank.com/profile/sahilkhan7824" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
   <a href="mailto:sahilkhan782466@gmail.com" target="_blank">
