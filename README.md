@@ -125,9 +125,6 @@
     <img src="https://github.com/sahilkhan-7/sahilkhan-7/assets/89759221/f19d104e-ae35-4162-ba41-0889a1193170" height="40" alt="instagram logo"/>
   </a>
 </div>
-<div>
-  <h2 align = "left"><b>📩 Download My <a href="https://drive.google.com/file/d/1w9_qJh2f-7smmED4ZMOi1lqYyPGOBKpO/view?usp=drive_link">Resume</a></b></h2>
-</div>
 
 ###
 <h2 align="left">🔥My Stats :</h2>
