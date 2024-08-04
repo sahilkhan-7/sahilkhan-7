@@ -82,7 +82,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img src="https://github.com/user-attachments/assets/a93936e3-594b-4af4-8715-63097079d337" height="40" alt="flask logo"  />
 </div>
 <h3 align="left">🛠 Software & Tools : </h3>
 
