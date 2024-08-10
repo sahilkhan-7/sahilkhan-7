@@ -36,7 +36,7 @@
 
 <h1 align="center">hey there 👋</h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
