@@ -137,14 +137,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkhan-7&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-###
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg)
-
-###
-
----
----
----
