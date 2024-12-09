@@ -1,6 +1,6 @@
 # Hi there! I'm Sahil Khan 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=600&lines=Machine+Learning+Engineer;AI+Enthusiast;Python+Developer;Data+Scientist;Data+Analyst;Computer+Vision+Specialist;Generative+AI+Explorer;Deep+Learning+Researcher)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Generative+AI+Explorer;Machine+Learning+Innovator;AI+Solutions+Architect)](https://git.io/typing-svg)
 
 ## 🌟 About Me
 
@@ -59,25 +59,26 @@ Greetings! I'm Sahil Khan, a passionate AI enthusiast from Jaipur, Rajasthan, In
 ## 🚀 Featured Projects
 
 ### 1. Car Damage Detection & Repair Cost Estimation System
-![Car Damage Detection](https://via.placeholder.com/400x200?text=Car+Damage+Detection)
-Advanced computer vision project using deep learning to detect car damages and accurately estimate repair costs.
+![Car Damage Detection](https://github.com/user-attachments/assets/44c09441-2081-419b-b998-df87e2abdb68)
+Designed a web-based application for detecting vehicle damage from uploaded images and estimating repair costs. Integrated MySQL for storing vehicle and spare part details, showcasing skills in computer vision, database management, and web development.
 
 ### 2. Speech Emotion Recognition
-![Speech Emotion Recognition](https://via.placeholder.com/400x200?text=Speech+Emotion+Recognition)
-Innovative machine learning model that analyzes speech patterns to recognize and classify emotional states.
+![Speech Emotion Recognition](https://github.com/user-attachments/assets/2e67701b-c584-4e7b-9d42-954c8be6d8f3)
+
+Built a CNN-LSTM model for recognizing emotions from speech data, achieving over 98% accuracy on benchmark datasets by extracting MFCC, chroma, and other audio features. The project demonstrates expertise in audio signal processing and advanced neural network architectures.
 
 ### 3. Personalized Movie Recommendation System
-![Movie Recommendation](https://via.placeholder.com/400x200?text=Movie+Recommendation+System)
-AI-powered recommendation engine using collaborative filtering and machine learning algorithms.
+![Movie Recommendation](https://github.com/user-attachments/assets/514cc664-6428-498a-b3a1-952aafaf67ac)
 
-### 4. House Price Prediction
-![House Price Prediction](https://via.placeholder.com/400x200?text=House+Price+Prediction)
-Advanced regression-based machine learning model for accurate real estate price predictions.
+Developed a robust recommendation system using content-based filtering and collaborative filtering techniques to suggest movies based on user preferences. The system highlights skills in recommendation algorithms and handling large datasets.
+
+
 
 ## 🔬 Additional Projects
 
 | Project Title | Description | Repository Link |
 |--------------|-------------|----------------|
+| House Price Prediction | Implemented advanced regression techniques, including LightGBM, XGBoost, and CatBoost, to predict house prices with high accuracy. Emphasis was placed on feature engineering, correlation analysis, and optimizing RMSE for robust performance. | [View Project](https://github.com/sahilkhan-7/Credit-Card-Fraud-Detection) |
 | Credit Card Fraud Detection | Machine learning model to identify suspicious credit card transactions | [View Project](https://github.com/sahilkhan-7/Credit-Card-Fraud-Detection) |
 | Customer Churn Prediction | Predictive model to forecast customer retention using advanced analytics | [View Project](https://github.com/sahilkhan-7/Customer-Churn-Prediction) |
 | Diabetes Prediction System | Machine learning model for early diabetes risk assessment | [View Project](https://github.com/sahilkhan-7/Diabetes-Prediction) |
