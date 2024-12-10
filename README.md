@@ -59,16 +59,18 @@ Greetings! I'm Sahil Khan, a passionate AI enthusiast from Jaipur, Rajasthan, In
 ## 🚀 Featured Projects
 
 ### 1. Car Damage Detection & Repair Cost Estimation System
-![Car Damage Detection](https://github.com/user-attachments/assets/44c09441-2081-419b-b998-df87e2abdb68)
+![Car Damage Detection](https://github.com/user-attachments/assets/4325c0c4-5412-4dfc-a533-9345846df9b3)
+
 Designed a web-based application for detecting vehicle damage from uploaded images and estimating repair costs. Integrated MySQL for storing vehicle and spare part details, showcasing skills in computer vision, database management, and web development.
 
 ### 2. Speech Emotion Recognition
-![Speech Emotion Recognition](https://github.com/user-attachments/assets/2e67701b-c584-4e7b-9d42-954c8be6d8f3)
+![Speech Emotion Recognition](https://github.com/user-attachments/assets/9c947c2b-7bc0-40df-b7ac-946931ace6e4)
+
 
 Built a CNN-LSTM model for recognizing emotions from speech data, achieving over 98% accuracy on benchmark datasets by extracting MFCC, chroma, and other audio features. The project demonstrates expertise in audio signal processing and advanced neural network architectures.
 
 ### 3. Personalized Movie Recommendation System
-![Movie Recommendation](https://github.com/user-attachments/assets/514cc664-6428-498a-b3a1-952aafaf67ac)
+![Movie Recommendation](https://github.com/user-attachments/assets/1538b17a-b511-4d50-b8d0-fe5fe8628ecb)
 
 Developed a robust recommendation system using content-based filtering and collaborative filtering techniques to suggest movies based on user preferences. The system highlights skills in recommendation algorithms and handling large datasets.
 
@@ -78,12 +80,11 @@ Developed a robust recommendation system using content-based filtering and colla
 
 | Project Title | Description | Repository Link |
 |--------------|-------------|----------------|
-| House Price Prediction | Implemented advanced regression techniques, including LightGBM, XGBoost, and CatBoost, to predict house prices with high accuracy. Emphasis was placed on feature engineering, correlation analysis, and optimizing RMSE for robust performance. | [View Project](https://github.com/sahilkhan-7/Credit-Card-Fraud-Detection) |
-| Credit Card Fraud Detection | Machine learning model to identify suspicious credit card transactions | [View Project](https://github.com/sahilkhan-7/Credit-Card-Fraud-Detection) |
-| Customer Churn Prediction | Predictive model to forecast customer retention using advanced analytics | [View Project](https://github.com/sahilkhan-7/Customer-Churn-Prediction) |
-| Diabetes Prediction System | Machine learning model for early diabetes risk assessment | [View Project](https://github.com/sahilkhan-7/Diabetes-Prediction) |
-| Breast Cancer Classification | Deep learning approach to cancer cell classification | [View Project](https://github.com/sahilkhan-7/Breast-Cancer-Classification) |
-| Stock Price Prediction | Time series forecasting for stock market trends | [View Project](https://github.com/sahilkhan-7/Stock-Price-Prediction) |
+| **House Price Prediction** 🏠 | Implemented advanced regression techniques, including LightGBM, XGBoost, and CatBoost, to predict house prices with high accuracy. Emphasis was placed on feature engineering, correlation analysis, and optimizing RMSE for robust performance. | [View Project](https://github.com/sahilkhan-7/house-price-prediction) |
+| **Credit Card Fraud Detection** 💳 | Machine learning model to identify suspicious credit card transactions | [View Project](https://github.com/sahilkhan-7/Credit-Card-Fraud-Detection) |
+| **Customer Churn Prediction** 🛃 | Predictive model to forecast customer retention using advanced analytics | [View Project](https://github.com/sahilkhan-7/Customer-Churn-Prediction) |
+| **Diabetes Prediction System**  | Machine learning model for early diabetes risk assessment | [View Project](https://github.com/sahilkhan-7/Diabetes-Prediction) |
+| **Heart Disease Prediction Project** ❤️ | This project uses machine learning to predict heart disease by analyzing patient data with visualizations and models like Logistic Regression and Random Forest. It highlights the role of ML in healthcare, offering insights into risk factors and enabling early diagnosis. 🌟 | [View Project](https://github.com/sahilkhan-7/heart-disease-prediction) |
 
 ## 🔮 Generative AI Roadmap
 
