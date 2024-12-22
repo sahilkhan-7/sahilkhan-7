@@ -1,5 +1,5 @@
 # Hi there! I'm Sahil Khan 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=600&lines=Machine+Learning+Engineer;AI+Enthusiast;Python+Developer;Data+Scientist;Data+Analyst;Computer+Vision+Specialist;Generative+AI+Explorer;Deep+Learning+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fd7917&width=600&lines=Machine+Learning+Engineer;AI+Enthusiast;Python+Developer;Data+Scientist;Data+Analyst;Computer+Vision+Specialist;Generative+AI+Explorer;Deep+Learning+Researcher)](https://git.io/typing-svg)
 
 
 ## 🌟 About Me
