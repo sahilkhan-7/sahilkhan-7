@@ -114,6 +114,6 @@ Developed a robust recommendation system using content-based filtering and colla
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilkhan782466@gmail.com)
 ---
 
-![Snake Animation](https://github.com/sahilkhan-7/sahilkhan-7/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/sahilkhan-7/sahilkhan-7/output/github-contribution-grid-snake.svg)
 
 *Exploring the Frontiers of Generative AI | Always Learning, Always Innovating*
