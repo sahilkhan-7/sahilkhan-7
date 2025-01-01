@@ -1,10 +1,9 @@
 # Hi there! I'm Sahil Khan 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code:bold&size=30&pause=1000&color=fd7917&width=800&lines=Machine+Learning+Engineer;AI+Enthusiast;Python+Developer;Data+Scientist;Data+Analyst;Computer+Vision+Specialist;Generative+AI+Explorer;Deep+Learning+Researcher)](https://git.io/typing-svg)
 
-
 ## 🌟 About Me
 
-Greetings! I'm Sahil Khan, a passionate AI enthusiast from Jaipur, Rajasthan, India. My journey is driven by an insatiable curiosity for generative AI, machine learning, and innovative technological solutions that push the boundaries of artificial intelligence.
+👋 Hi! I'm **Sahil Khan**, a final-year B.Tech student based in Jaipur, Rajasthan. I'm a passionate Data Scientist and AI/ML Engineer, currently exploring LLMs and Generative AI while building innovative AI solutions. I specialize in Python, MySQL, Data Analysis, Visualization, and Machine Learning, with a focus on creating impactful models and actionable insights.
 
 - 🤖 Specializing in Generative AI and Advanced Machine Learning
 - 🧠 Exploring Cutting-Edge AI Technologies
@@ -87,13 +86,6 @@ Developed a robust recommendation system using content-based filtering and colla
 | **Attendance Management System** 🅰️ | User-friendly system for managing student attendance with CSV data storage. | [**View Project**](https://github.com/sahilkhan-7/Attendance-Mangement-System) |
 | **Amazon Sales Analysis**  | Interactive Power BI dashboard and Python-based analysis of Amazon sales data, identifying key trends and drivers for business optimization. | [**View Project**](https://github.com/sahilkhan-7/amazon-sales-analysis) |
 | **Black Friday Sales Analysis** | Comprehensive analysis of Black Friday sales data, evaluating online vs. in-store sales and marketing strategies. | [**View Project**](https://github.com/sahilkhan-7/black-friday-sales-analysis) |
-## 🔮 Generative AI Roadmap
-
-- [ ] Master Large Language Models
-- [ ] Develop Generative AI Applications
-- [ ] Explore Multimodal AI Systems
-- [ ] Contribute to Open-Source AI Projects
-- [ ] Research Ethical AI Development
 
 ## 📊 GitHub Stats
 
