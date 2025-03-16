@@ -57,16 +57,16 @@
 
 ## 🚀 Featured Projects
 
-### 1. [Car Damage Detection & Repair Cost Estimation System](https://github.com/sahilkhan-7/accident-damage-detection)
+### 1. [Document QnA ChatBot using RAG](https://github.com/sahilkhan-7/document-chatbot)
+![Document ChatBot](https://github.com/user-attachments/assets/385feeb9-3172-4df1-9773-667a05635f7f)
+
+This project is a Streamlit-based web application that allows users to upload multiple documents (PDF, DOCX, TXT) and interact with them using a chatbot interface. The chatbot is powered by the Groq API and leverages LangChain for conversational retrieval, providing structured and concise answers from the uploaded documents.
+
+### 2. [Car Damage Detection & Repair Cost Estimation System](https://github.com/sahilkhan-7/accident-damage-detection)
 ![Car Damage Detection](https://github.com/user-attachments/assets/4325c0c4-5412-4dfc-a533-9345846df9b3)
 
 Designed a web-based application for detecting vehicle damage from uploaded images and estimating repair costs. Integrated MySQL for storing vehicle and spare part details, showcasing skills in computer vision, database management, and web development.
 
-### [2. Speech Emotion Recognition](https://github.com/sahilkhan-7/Speech-emotion-recognition)
-![Speech Emotion Recognition](https://github.com/user-attachments/assets/9c947c2b-7bc0-40df-b7ac-946931ace6e4)
-
-
-Built a CNN-LSTM model for recognizing emotions from speech data, achieving over 98% accuracy on benchmark datasets by extracting MFCC, chroma, and other audio features. The project demonstrates expertise in audio signal processing and advanced neural network architectures.
 
 ### [3. Personalized Movie Recommendation System](https://github.com/sahilkhan-7/Movie-Recommendation-System)
 ![Movie Recommendation](https://github.com/user-attachments/assets/1538b17a-b511-4d50-b8d0-fe5fe8628ecb)
@@ -79,6 +79,7 @@ Developed a robust recommendation system using content-based filtering and colla
 
 | Project Title | Description | Repository Link |
 |--------------|-------------|----------------|
+| **Speech Emotion Recognition** 🗣️ | Built a CNN-LSTM model for recognizing emotions from speech data, achieving over 98% accuracy on benchmark datasets by extracting MFCC, chroma, and other audio features. The project demonstrates expertise in audio signal processing and advanced neural network architectures. | [**View Project**](https://github.com/user-attachments/assets/9c947c2b-7bc0-40df-b7ac-946931ace6e4) |
 | **House Price Prediction** 🏠 | Advanced regression techniques for accurate house price prediction, including LightGBM, XGBoost, and CatBoost. Focused on feature engineering and RMSE optimization. | [**View Project**](https://github.com/sahilkhan-7/house-price-prediction) |
 | **Crime Section Recommendation** 👮 | NLP-powered tool for suggesting crime sections based on user descriptions. Utilized text preprocessing, embeddings, and cosine similarity for accurate matching. | [**View Project**](https://github.com/sahilkhan-7/crime-section-recommender) |
 | **Heart Disease Prediction** ❤️ | Machine learning project predicting heart disease with visualizations and models like Logistic Regression and Random Forest. Highlights ML's role in healthcare. | [**View Project**](https://github.com/sahilkhan-7/heart-disease-prediction) |
