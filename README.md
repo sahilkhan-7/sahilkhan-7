@@ -58,7 +58,8 @@
 ## 🚀 Featured Projects
 
 ### 1. [Document QnA ChatBot using RAG](https://github.com/sahilkhan-7/document-chatbot)
-![Document ChatBot](https://github.com/user-attachments/assets/385feeb9-3172-4df1-9773-667a05635f7f)
+![Document ChatBot](https://github.com/user-attachments/assets/c65b191f-589a-41ac-9911-190c563d1340)
+
 
 This project is a Streamlit-based web application that allows users to upload multiple documents (PDF, DOCX, TXT) and interact with them using a chatbot interface. The chatbot is powered by the Groq API and leverages LangChain for conversational retrieval, providing structured and concise answers from the uploaded documents.
 
