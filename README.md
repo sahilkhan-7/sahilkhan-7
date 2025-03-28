@@ -2,58 +2,58 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code:bold&size=30&pause=1000&color=fd7917&width=800&lines=Machine+Learning+Engineer;AI+Enthusiast;Python+Developer;Data+Scientist;Data+Analyst;Computer+Vision+Specialist;Generative+AI+Explorer;Deep+Learning+Researcher)](https://git.io/typing-svg)
 
 ## 🌟 About Me
+Greetings! I'm **Sahil Khan**, an ambitious final-year B.Tech student from Jaipur, Rajasthan, with a burning passion for pushing the boundaries of artificial intelligence. My journey in tech is driven by an insatiable curiosity to transform complex challenges into innovative solutions through cutting-edge machine learning and AI technologies.
 
-👋 Hi! I'm **Sahil Khan**, a final-year B.Tech student based in Jaipur, Rajasthan. I'm a passionate Data Scientist and AI/ML Engineer, currently exploring LLMs and Generative AI while building innovative AI solutions. I specialize in Python, MySQL, Data Analysis, Visualization, and Machine Learning, with a focus on creating impactful models and actionable insights.
+As a versatile technologist, I thrive at the intersection of data science, machine learning, and artificial intelligence. My expertise spans from developing intelligent systems and predictive models to exploring the vast potential of generative AI and large language models.
 
-- 🤖 Specializing in Generative AI and Advanced Machine Learning
-- 🧠 Exploring Cutting-Edge AI Technologies
-- 💡 Transforming Complex Problems with AI-Driven Solutions
-- 🚀 Committed to Pushing the Frontiers of Artificial Intelligence
+## 🛠️ Technical Expertise
 
-## 🛠️ Generative AI & Tech Stack
-
-### 🧠 AI & Machine Learning Focus
+### 🧠 Specialized Domains
 - Generative AI Technologies
 - Large Language Models (LLMs)
+- Advanced Machine Learning
 - Computer Vision
 - Natural Language Processing
-- Predictive Modeling
+- Predictive Analytics
+- Retrieval Augmented Generation (RAG)
 
-## 🛠️ Tech Stack
+### 👨‍💻 Programming & Tech Stack
 
-### 👨‍💻 Programming Languages
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-### 👨‍💻 Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### Machine Learning & AI Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-006400?style=for-the-badge&logo=huggingface&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-1C3D5A?style=for-the-badge&logo=python&logoColor=white)
+
+#### Data Science & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🚀 Generative AI Tools
+#### AI/ML Platforms & Tools
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=hugginface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-1C3D5A?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/Langchain-1C3D5A?style=for-the-badge&logo=python&logoColor=white)
 
+## 🌈 Professional Philosophy
+I believe in the transformative power of technology to solve real-world problems. My approach combines rigorous technical skills with creative problem-solving, always aiming to develop intelligent systems that make a meaningful impact.
 
-### 🛠 Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilkhan7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilkhan-7)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sahilkhan.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilkhan782466@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sahilkhan782466)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmer.70)
+---
 
 ## 🚀 Featured Projects
 
@@ -97,16 +97,3 @@ Developed a robust recommendation system using content-based filtering and colla
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan-7&layout=compact&theme=synthwave" alt="Top Languages" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkhan-7&theme=dark" alt="GitHub Streak" />
 </div>
-
-## 🌐 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programmer70)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sahilkhan782466)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmer.70)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sahilkhan7824)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilkhan782466@gmail.com)
----
-
-![Snake Animation](https://github.com/sahilkhan-7/sahilkhan-7/output/github-contribution-grid-snake.svg)
-
-*Exploring the Frontiers of Generative AI | Always Learning, Always Innovating*
